@@ -1,3 +1,5 @@
+# Awesome Gen AI Notes - Zero to Hero
+
 ![Motivation](https://github.com/user-attachments/assets/fe009e29-c632-4e41-a78d-f3f2211f01b0)
 
 # awesome-genai-notes
